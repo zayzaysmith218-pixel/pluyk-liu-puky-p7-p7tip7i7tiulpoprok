@@ -1,5 +1,5 @@
 {
-    "name": "p[luyk-=liu-p=uky-=p7-=p;7ti=p7i[];7tiulp[opro,k,",
+    "name": "g",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -20,5 +20,6 @@
     },
     "supportedTargets": [
         "minecraft"
-    ]
+    ],
+    "preferredEditor": "blocksprj"
 }
